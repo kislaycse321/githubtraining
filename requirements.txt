@@ -1,0 +1,3 @@
+Requirements of the chat application
+Emoji
+text-style
