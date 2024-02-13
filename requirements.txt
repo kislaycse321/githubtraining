@@ -1,3 +1,6 @@
 Requirements of the chat application
 Emoji
 text-style
+Panning to add payment feature.
+Send money
+Receive money
